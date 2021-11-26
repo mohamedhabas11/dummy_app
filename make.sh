@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Fix release problem :)
 PLATFORM_VERSION=1
 UPDATE_VERSION="v0.00.1"
 APP_VERSION="v1.00.0"
